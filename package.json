@@ -1,0 +1,25 @@
+{
+  "name": "simple-slack-webhook",
+  "version": "0.0.3",
+  "description": "Simple module for Slack Incoming WebHooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://misterpaladin@github.com/misterpaladin/simple-slack-webhook.git"
+  },
+  "keywords": [
+    "slack",
+    "incoming",
+    "webhook",
+    "slack"
+  ],
+  "author": "Eugene Min <e.min@milax.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterpaladin/simple-slack-webhook/issues"
+  },
+  "homepage": "https://github.com/misterpaladin/simple-slack-webhook#readme"
+}
