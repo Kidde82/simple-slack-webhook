@@ -1,6 +1,6 @@
 {
   "name": "simple-slack-webhook",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple module for Slack Incoming WebHooks.",
   "main": "index.js",
   "scripts": {
